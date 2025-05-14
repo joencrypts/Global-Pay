@@ -5,7 +5,6 @@
 >
 > **Problem:** Managing stablecoins across networks is complex, and most wallets lack budgeting, analytics, and actionable insights. GlobePay solves this by combining a beautiful dashboard, live analytics, and seamless Base L2 integration.
 >
-> **Live Demo:** [https://your-demo-link.com](https://your-demo-link.com)
 
 ---
 
