@@ -19,23 +19,13 @@
 
 ---
 
-## Screenshots
-
-> _Replace these with your own screenshots_
-
-| Dashboard Overview | Budget Insights |
-|-------------------|----------------|
-| ![Dashboard](./screenshots/dashboard.png) | ![Budget](./screenshots/budget.png) |
-
----
-
 ## Getting Started
 
 ### 1. **Clone & Install**
 ```bash
 # Clone the repo
- git clone https://github.com/your-org/GlobePay.git
- cd GlobePay
+ git clone https://github.com/joencrypts/Globe-Pay.git
+ cd Globe-Pay
 
 # Install dependencies
  npm install
@@ -105,12 +95,6 @@ GlobePay/
   hardhat.config.ts  # Hardhat config (Base L2 ready)
   README.md          # This file
 ```
-
----
-
-## Contributing
-
-Pull requests welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
